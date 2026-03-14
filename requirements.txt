@@ -4,3 +4,4 @@ numpy
 pandas
 plotly
 netCDF4
+h5netcdf
